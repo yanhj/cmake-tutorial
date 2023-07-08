@@ -1,0 +1,9 @@
+/*
+this file is generated automatically by cmake, don't edit it manually
+*/
+class VersionInfo {
+public:
+    static constexpr int APP_VERSION_MAJOR=@VERSION_MAJOR@;
+    static constexpr int APP_VERSION_MINOR=@VERSION_MINOR@;
+    static constexpr int APP_VERSION_PATCH=@VERSION_PATCH@;
+};

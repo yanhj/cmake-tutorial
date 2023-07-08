@@ -1,6 +1,9 @@
 /*
 this file is generated automatically by cmake, don't edit it manually
 */
+
+#pragma once
+
 class VersionInfo {
 public:
     static constexpr int APP_VERSION_MAJOR=@VERSION_MAJOR@;

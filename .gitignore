@@ -1,5 +1,3 @@
 cmake-build*
-
-version.h
-
 .idea
+version.h
